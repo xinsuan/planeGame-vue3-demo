@@ -1,4 +1,5 @@
 # 打飞机
+![](https://github.com/xinsuan/planeGame-vue3-demo/blob/main/planeGameImages/%E6%B8%B8%E6%88%8F%E7%A4%BA%E6%84%8F%E5%9B%BE1.jpg)
 
 ## 启动
 
